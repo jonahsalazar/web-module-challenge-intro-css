@@ -1,19 +1,33 @@
 * {
     font-family: 'Roboto Mono', monospace;
-    outline: 1px dotted red;
+}
+
+.header{
+    color: #ffffff;
 }
 
 .button1 {
     background-color: #FF764E;
-
+    margin: 0px 200px;
+    padding: 8px 23px;
+    border-radius: 10%;
+    border: 0px;
 }
 
 .button2 {
     background-color: #5ED3EB;
+    margin: 0px 200px 0px 350px;
+    padding: 8px 23px;
+    border-radius: 10%;
+    border: 0px;
 }
 
 .button3 {
     background-color: #FFCD69;
+    margin: 0px 200px 0px 300px;
+    padding: 8px 23px;
+    border-radius: 10%;
+    border: 0px;
 }
 
 .intro{
@@ -34,12 +48,23 @@
     border-radius: 50%; /* This changes the image into a circle */
 }
 
+.description {
+    background-color: #cc8770;
+    color: #ffffff;
+    padding: 20px 50px;
+}
+
 .campfire-img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50% auto;
     height: 200px;
+}
+
+.campfire-text {
+    text-align: center;
+    padding: 0px 750px;
 }
 
 .camper-img {
@@ -50,18 +75,42 @@
     height: 200px;
 }
 
+.camper-text{
+    text-align: center;
+    padding: 0px 750px;
+}
+
+#footer {
+    background-color: #fdd6c9;
+    padding: 20px 50px;
+}
 .button4 {
     background-color: #FF764E;
+    margin: 0px 200px;
+    padding: 8px 23px;
+    border-radius: 10%;
+    border: 0px;
 }
 
 .button5{
     background-color: #5ED3EB;
+    margin: 0px 200px 0px 350px;
+    padding: 8px 23px;
+    border-radius: 10%;
+    border: 0px;
 }
 
 .button6{
-    background-color: #FFCD69;
+    background-color: #fdc7b5;
+    margin: 0px 200px;
+    padding: 8px 23px;
+    border-radius: 10%;
+    border: 0px;
 }
 
 .mountains-img{
-
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
