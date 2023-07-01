@@ -1,0 +1,67 @@
+* {
+    font-family: 'Roboto Mono', monospace;
+    outline: 1px dotted red;
+}
+
+.button1 {
+    background-color: #FF764E;
+
+}
+
+.button2 {
+    background-color: #5ED3EB;
+}
+
+.button3 {
+    background-color: #FFCD69;
+}
+
+.intro{
+    text-align: center;
+    margin-top: ;
+}
+
+.title {
+    font-family: ;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.header-img {
+    width: auto;
+    height: 250px; 
+    border-radius: 50%; /* This changes the image into a circle */
+}
+
+.campfire-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50% auto;
+    height: 200px;
+}
+
+.camper-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50% auto;
+    height: 200px;
+}
+
+.button4 {
+    background-color: #FF764E;
+}
+
+.button5{
+    background-color: #5ED3EB;
+}
+
+.button6{
+    background-color: #FFCD69;
+}
+
+.mountains-img{
+
+}
